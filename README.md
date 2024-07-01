@@ -1,2 +1,2 @@
-# Minesweeper_c-
+# Minesweeper_cpp
 Minesweeper implementation in C++ with SFML.
